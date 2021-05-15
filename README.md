@@ -1,14 +1,13 @@
 # react-js-todo_list
 Todo List With React Js
 
-## Duilding lauch in local for production mode 
- 	[- yarn build / yarn run build]
- 	[- npx serve -s build (to launch the servve on build derectory)]
+## Building and launch in local for production mode 
+  - `yarn build` / `yarn run build` to build 
+  - `npx serve -s build` to launch the app on local serve
 
 
- ## Adding gitpod to test in live dev environnement from github
-  - [adding gitpod.yml]
-
+## Adding gitpod to test in live remote dev environnement from github
+  - adding gitpod.yml
 
 
 # Getting Started with Create React App
